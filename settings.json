@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BlateSMP.aternos.me",
+    "port": 31619,
     "version": "1.20.1",
     "try-creative": false
   },
